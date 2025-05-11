@@ -2,7 +2,7 @@
 XCode sample proyect that explains how to centralize config parameters used in many targets. This is the basecode for following post [Tired of Repeating Configs in Every Target?](https://javios.eu/uncategorized/tired-of-repeating-configs/)
 
 ## iOs App Review
-<img src="media/review.png" alt="Playground on action" width="300">
+<img src="media/review.jpg" alt="Playground on action" width="300">
 
 ## Requirements
 
